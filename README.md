@@ -7,6 +7,8 @@
 Official site at http://decisionsystemsgroup.github.io/DSGos/
 
 ## About
+
+[![Join the chat at https://gitter.im/DecisionSystemsGroup/DSGos](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DecisionSystemsGroup/DSGos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 DSGos is an experiment from some of the [DSG](http://dsg.teiste.gr/) members. It
 is an unofficial project and will remain unofficial until we have something
 working to present.
